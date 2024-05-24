@@ -8,7 +8,7 @@ public class SpringBootMysqlDockerApplication {
 
 	public static void main(String[] args) {
 		
-		SpringApplication.run(SpringBootMysqlDockerApplication.class, args)
+		SpringApplication.run(SpringBootMysqlDockerApplication.class, args);
 	}
 
 }
